@@ -8,7 +8,7 @@
 This project implements an end-to-end Deep Learning pipeline to identify 38 different classes of plant diseases from leaf images. The primary objective is to perform a rigorous comparative engineering analysis between building a **Custom Convolutional Neural Network (CNN)** from scratch and utilizing **Transfer Learning (MobileNetV2)** for edge-device constraints.
 
 ## 📊 Exploratory Data Analysis (EDA)
-The dataset utilized is the **New Plant Diseases Dataset** via the Kaggle API, containing over 70,000 images. 
+The dataset utilized is the **New Plant Diseases Dataset** via the Kaggle API, containing about 87K images. 
 ![EDA](assets/Exploratory_Data_Analysis.png)
 
 ## ⚙️ Key Engineering Features
