@@ -9,7 +9,7 @@ This project implements an end-to-end Deep Learning pipeline to identify 38 diff
 
 ## 📊 Exploratory Data Analysis (EDA)
 The dataset utilized is the **New Plant Diseases Dataset** via the Kaggle API, containing over 70,000 images. 
-![EDA](assets/Exploratory_Data_Analysis.jpg)
+![EDA](assets/Exploratory_Data_Analysis.png)
 
 ## ⚙️ Key Engineering Features
 * **Strict Data Isolation:** The original dataset was programmatically split to create a completely unseen Test Set. The models never interacted with this data during training, preventing data leakage.
