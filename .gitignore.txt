@@ -1,0 +1,11 @@
+# Datasets
+data/
+dataset/
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
